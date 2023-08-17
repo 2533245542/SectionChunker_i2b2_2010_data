@@ -1,0 +1,6 @@
+T1	SectionHeader 90 100
+A1	Type T1 Admit_Date
+T2	SectionHeader 121 133
+A2	Type T2 Discharge_Date
+T3	SectionHeader 179 187
+A3	Type T3 Attending

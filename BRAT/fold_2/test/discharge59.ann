@@ -1,0 +1,6 @@
+T1	SectionHeader 0 11
+A1	Type T1 Discharge_Diagnoses
+T2	SectionHeader 219 245
+A2	Type T2 Discharge_Medications
+T3	SectionHeader 300 322
+A3	Type T3 Hospital_Course

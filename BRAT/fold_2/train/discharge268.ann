@@ -1,0 +1,6 @@
+T1	SectionHeader 0 21
+A1	Type T1 Discharge_Diagnoses
+T2	SectionHeader 242 265
+A2	Type T2 Discharge_Medications
+T3	SectionHeader 424 434
+A3	Type T3 Followup
